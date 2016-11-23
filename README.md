@@ -2,5 +2,5 @@
 Simple python script converting a list of strings to a csv with either 2 or 4 columns
 
 #usage
-python [input file name] [mode]
+python python_csv.py [input file name] [mode]
 
